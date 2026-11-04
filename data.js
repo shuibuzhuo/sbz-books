@@ -1,5 +1,5 @@
 window.BOOKS_DATA = {
-  "generatedAt": "2026-11-04T04:29:19.036Z",
+  "generatedAt": "2026-11-04T06:16:58.465Z",
   "books": [
     {
       "id": "conversational",
