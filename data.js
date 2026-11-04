@@ -1,5 +1,5 @@
 window.BOOKS_DATA = {
-  "generatedAt": "2026-11-04T06:16:58.465Z",
+  "generatedAt": "2026-11-04T06:34:12.094Z",
   "books": [
     {
       "id": "conversational",
@@ -43,7 +43,7 @@ window.BOOKS_DATA = {
             "1103 口语练习",
             "出处"
           ],
-          "html": "<h1>1103 口语练习</h1>\n<h2>出处</h2>\n<p><strong>4 Greeting a person you haven't seen in a long time</strong>（久别重逢打招呼）</p>\n<h2>例句</h2>\n<p>I haven't seen you in years!</p>\n<h2>场景对话</h2>\n<pre><code>你：  Hey! I haven't seen you in years! How have you been?\n对方：Good! Long time no see. What have you been up to?\n你：  Oh, just work and stuff. You?\n对方：Same old. Let's grab coffee sometime.\n</code></pre>\n<p>中文对照：</p>\n<pre><code>你：  嘿！好久没见了！最近咋样？\n对方：挺好！可不是嘛，最近忙啥呢？\n你：  哦，就工作那点事儿呗。你呢？\n对方：还是老样子。找时间一起喝杯咖啡啊。\n</code></pre>\n"
+          "html": "<h1>1103 口语练习</h1>\n<h2>出处</h2>\n<p><strong>4 Greeting a person you haven't seen in a long time</strong>（久别重逢打招呼）</p>\n<h2>例句</h2>\n<p>I haven't seen you in years!</p>\n<h2>场景对话</h2>\n<pre><code>你：  Hey! I haven't seen you in years! How have you been?\n对方：Good! Long time no see. What have you been up to?\n你：  Oh, just work and stuff. You?\n对方：Same old. Let's grab coffee sometime.\n</code></pre>\n<p>中文对照：</p>\n<pre><code>你：  嘿！好久没见了！最近咋样？\n对方：挺好！可不是嘛，最近忙啥呢？\n你：  哦，就工作那点事儿呗。你呢？\n对方：还是老样子。找时间一起喝杯咖啡啊。\n</code></pre>\n<p>测试文字</p>\n"
         },
         {
           "bookId": "collocations",
