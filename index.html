@@ -6,23 +6,13 @@
     <link rel="apple-touch-icon" href="./apple-touch-icon.png" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta name="theme-color" content="#e6dfd2" />
-    <meta
-      name="description"
-      content="把 Obsidian 里的英语读书笔记按日期整理成一页一页的复习登记册。"
-    />
+    <meta name="robots" content="noindex" />
     <title>英语练习登记册</title>
-    <script type="module" crossorigin src="./assets/index-BqQlbm5D.js"></script>
-    <link rel="stylesheet" crossorigin href="./assets/index-CrwdDGRu.css">
+    <script>
+      // Preserve query strings and anchors while staying relative, so the same
+      // redirect works at / and at the deployed /sbz-books/ sub-path.
+      location.replace('./books/' + location.search + location.hash)
+    </script>
   </head>
-  <body>
-    <!--
-      THESIS: A review page built as a daily practice register — one dated sheet, ruled book bands, refusing the generic card-list notes site.
-      OWN-WORLD: Exercise-book paper #f7f3ea, blue-grey ruling, warm ink, one red-pen accent; Figtree form labels with a serif reading face.
-      STORY: The learner sees the latest day's books and topics at a glance, opens a band to reread examples, and flips to any earlier date from the register index.
-      FIRST VIEWPORT: Desktop: sticky date index left, the day sheet right led by a red date stamp and three ruled bands, first band open. Mobile: horizontal date strip, stamp first, one column.
-      FORM: Daily Practice Register, position 1 of 7 grounded directions; seed key e8308567.
-      FINISH: unreviewed and undocumented is unfinished; this build ends with the finish review, the verdict, DESIGN.md, and every shipping raster carrying its provenance.
-    -->
-    <div id="root"></div>
-  </body>
+  <body></body>
 </html>
